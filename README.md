@@ -1,4 +1,6 @@
-# Decision_tree- BANK Domain Task 
+# Decision_tree- Bank Domain Task 
 # Objective 
- BANK LOAN PREDICTION
+ BANK LOAN PREDICTION (TO WHOM THE LOAN WILL BE APPROVED & REJECTED)
+ ##Sub-Objective
+
  
